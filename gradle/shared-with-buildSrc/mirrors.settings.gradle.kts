@@ -23,6 +23,7 @@ import org.gradle.tooling.events.OperationCompletionListener
 val originalUrls: Map<String, String> = mapOf(
     "jcenter" to "https://jcenter.bintray.com/",
     "mavencentral" to "https://repo.maven.apache.org/maven2/",
+    "jitpack" to "https://jitpack.io",
     "google" to "https://dl.google.com/dl/android/maven2/",
     "gradle" to "https://repo.gradle.org/gradle/repo",
     "gradle-prod-plugins" to "https://plugins.gradle.org/m2",
